@@ -1,0 +1,16 @@
+{
+  "name": "backups",
+  "version": "0.0.1",
+  "description": "A simple script for backing up data",
+  "main": "index.js",
+  "keywords": [
+    "infusionsoft",
+    "api"
+  ],
+  "author": "Mel Michael",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "request": "^2.61.0"
+  }
+}
